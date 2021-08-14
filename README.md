@@ -1,2 +1,4 @@
 # Portfolio Website
-[Click to Visit Website](https://github.com/user/repo/blob/branch/other_file.md)
+I have created a portfolio website where I have mentioned my skillset, projects, and academic credentials.
+
+[Click to Visit Website](https://navjotsinghgithub.github.io/Portfolio_Website/)
